@@ -341,12 +341,12 @@ body a{
 }
 
 .store_section{ 
+  /* position: relative; */
   width: 100%;
   overflow: hidden;
 }
 
 .store_section .store_preview_block{ 
-  position: relative;
   top:320%;
   left: 40px;
 }
@@ -966,9 +966,8 @@ body a{
     }
 
     .store_section .store_preview_block{
-      position: absolute;
-      top:350%;
-      left: 30px;
+      
+     margin-top: 50px;
     }
 
     .cajun_description
