@@ -807,7 +807,7 @@ body a{
     display: none;
   }
   .header_items{
-    max-width: 400px;
+    max-width: 300px;
     /* margin-inline: auto; */
   }
   header .end{
@@ -916,7 +916,7 @@ body a{
       padding: 30px;
     }
     .about_text{
-      width: 420px;
+      width: 320px;
     }
 
     .about-section .pepper{
@@ -939,7 +939,7 @@ body a{
     }
 
     .class_text{
-      width: 400px;
+      width: 300px;
     }
 
     .class_text .store_top_text{
@@ -1103,7 +1103,7 @@ body a{
     }
 
     .logo_about p{
-      width: 400px;
+      width: 300px;
       margin-bottom: 30px;
     }
 
