@@ -800,7 +800,7 @@ body a{
   #MEDIA QUERY
 \*-----------------------------------*/
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1150px){
 
 
   header .nav_items{
